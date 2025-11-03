@@ -1,1 +1,8 @@
-# CC-2026-cross-platform-application-development-sprint-3
+﻿# Cross-Platform Application Development
+
+**Ciclo:** sprint-3  
+**Semestre:** semestre:s4  
+**Ano:** 2026  
+
+> Repositorio publico criado para a disciplina **Cross-Platform Application Development** no contexto do ciclo **sprint-3** (FIAP 2026).
+
